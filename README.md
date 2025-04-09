@@ -24,10 +24,7 @@ I recently completed a hands-on intensive **Data Science and AI Bootcamp at Le W
 - Deployed a **web application** to display model predictions and insights.
 - Using **machine learning & deep learning techniques** for fraud detection and financial forecasting.
 
-### 🔹 House Prices Prediction *(Kaggle Competition)*
-- Implemented advanced regression techniques to predict house prices.
-- Optimized a **Neural Network model** to improve performance.
-- Feature engineering, data cleaning, and hyperparameter tuning.
+
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/kanishkatks](https://github.com/kanishkatks)
