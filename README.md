@@ -28,7 +28,7 @@ I recently completed a hands-on intensive **Data Science and AI Bootcamp at Le W
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/kanishkatks](https://github.com/kanishkatks)
-- **LinkedIn:** [linkedin.com/in/kanishkatks](https://www.linkedin.com/in/kanishka.waghmare/)
+- **LinkedIn:** [https://www.linkedin.com/in/kanishka.waghmare/](https://www.linkedin.com/in/kanishka-waghmare-aa77a753/)
 - **Portfolio**[kanishkawaghmare.com]
 
 ## 🎯 Current Goals
