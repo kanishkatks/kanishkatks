@@ -19,18 +19,18 @@ I recently completed a hands-on intensive **Data Science and AI Bootcamp at Le W
 - **FrontEnd Development:** React JS(Basics)
 
 ## 📚 Recent Projects
-### 🔹 Kanbot - RAG powered portfolio assistant*
+### 🔹 Kanbot - RAG powered portfolio assistant
 - **Kanbot** is  smart, conversational assistant built into my portfolio website that answers questions about my background, projects, and skills in natural language. It feels like chatting with me, even when I'm not available!.
 - Deployed a **chatbot** on my portfolio website (kanishkawaghmare.com).
 - Using **llama-3**  from Huggingface text generation.
 - Using **FAISS** for vector search on the backend hosted on **GCP**
 - 
-### 🔹 Smart EDATool - Multi-Agent LLM-Powered Exploratory Data Analysis*
+### 🔹 Smart EDATool - Multi-Agent LLM-Powered Exploratory Data Analysis
 - A powerful multi-agent tool that automates exploratory data analysis for rapid insights from raw datasets.
 - User Upload: Users upload their dataset files through a React-based frontend.-[link](https://kanishkawaghmare.com/edatool)
 - Backend Processing: **FastAPI** handles data ingestion and routing to the multi-agent system for analysis, hosted on **AWS EC2 instance**.
 - Agent Collaboration: Dedicated agents work in tandem to validate, analyze, and visualize data.
-- Report Generation: Produces detailed reports that combine text summary and interactive plots.
+- Report Generation: Produces detailed reports.
 
 
 ### 🔹 Credit Card Fraud Detection & Stock Market Anomaly Detection *(Final Project @ Le Wagon)*
