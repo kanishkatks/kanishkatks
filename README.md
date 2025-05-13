@@ -39,7 +39,10 @@ I recently completed a hands-on intensive **Data Science and AI Bootcamp at Le W
 - Deployed a **web application** to display model predictions and insights.
 - Using **machine learning & deep learning techniques** for fraud detection and financial forecasting.
 
-
+## 📚 Upcoming Projects
+### 🔹 AI-agent based personal assistant. (Hopefully using MCP)
+- AI- Agent that can read emails, chat,  and organise tasks to help facilitate easy workflow.
+- Keep an eye out!   
 
 ## 📫 Connect with Me
 - **GitHub:** [github.com/kanishkatks](https://github.com/kanishkatks)
